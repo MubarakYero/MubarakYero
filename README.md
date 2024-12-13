@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python<br>👯 I’m looking to collaborate on Python and Data Science Projects<br>🌱 I’m currently learning Python and Data Science
+🔭 I’m currently working on Python<br>👯 I’m looking to collaborate on Python and Data Science Projects<br>🌱 I’m currently learning SQL
 
 
 # 💻 Tech Stack:
