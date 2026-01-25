@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python<br>👯 I’m looking to collaborate on Python and Data Science Projects<br>🌱 I’m currently learning SQL
+🔭 Computer engineering graduate passionate about working with data.<br>🌱 I’m currently training to become a data engineer
 
 
 # 💻 Tech Stack:
